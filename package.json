@@ -1,0 +1,14 @@
+{
+  "name": "violentmonkey-types",
+  "version": "1.0.0",
+  "description": "Typescript Declaration for violentmonkey GM_* API",
+  "main": "",
+  "types": "index",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s-tomo/violentmonkey-types.git"
+  },
+  "author": "s-tomo <s.tomo.dev666@gmail.com> (https://github.com/s-tomo)",
+  "license": "MIT",
+  "devDependencies": {}
+}
